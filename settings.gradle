@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Nair Week 14 Final Exam App"
